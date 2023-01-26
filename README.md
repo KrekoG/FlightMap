@@ -7,6 +7,8 @@ Currently only the horde side is mapped out.
 
 To bring up the available options, type `/fmap` or `/flightmap`
 
+![image](https://user-images.githubusercontent.com/1638449/214933907-a1c65bfb-6850-41e8-a81e-c1632c5626fa.png)
+
 ![image](https://user-images.githubusercontent.com/1638449/214931190-3753a038-3627-4799-966c-1b88fd2532af.png)
 
 ![image](https://user-images.githubusercontent.com/1638449/214931008-b15269f4-a039-4cf0-a4a3-76d156fdabc6.png)
