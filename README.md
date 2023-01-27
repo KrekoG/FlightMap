@@ -2,9 +2,6 @@
 A vanilla + specific flight map addon.
 This package contains both the original addon and the V+ database updater. This package is based on Dhask's FlightMap v1.12-1, and includes it for the sake of convinience. When using on a different server, do not turn on the FlightMapVanillaPlusUpdate addon, or your values will be incorrect. If you have already done this, you can fix it by turning it off, then going to your `WTF\Account\<Your account name>\SavedVariables` folder and deleting the `FlightMap.lua` file.
 
-## IMPORTANT
-Currently only the horde side is mapped out.
-
 To bring up the available options, type `/fmap` or `/flightmap`
 
 ![image](https://user-images.githubusercontent.com/1638449/214933907-a1c65bfb-6850-41e8-a81e-c1632c5626fa.png)
