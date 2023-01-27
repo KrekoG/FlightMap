@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: Dhask's FlightMap's Vanilla+ Database v0.1
+## Title: Dhask's FlightMap's Vanilla+ Database v0.2
 ## Notes: Updates the default flight database with Vanilla+ specific values
 ## Dependencies: FlightMap
 ## Author: Krekog
